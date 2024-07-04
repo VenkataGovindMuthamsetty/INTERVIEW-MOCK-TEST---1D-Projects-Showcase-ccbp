@@ -1,0 +1,9 @@
+
+.not-found-image {
+  height: 250px;
+}
+
+.btn-retry {
+  outline: none;
+  cursor: pointer;
+}
